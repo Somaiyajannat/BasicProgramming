@@ -1,0 +1,15 @@
+E:\Basic C# Programming\Basic\Basic\bin\Debug\net7.0\Basic.exe
+E:\Basic C# Programming\Basic\Basic\bin\Debug\net7.0\Basic.deps.json
+E:\Basic C# Programming\Basic\Basic\bin\Debug\net7.0\Basic.runtimeconfig.json
+E:\Basic C# Programming\Basic\Basic\bin\Debug\net7.0\Basic.dll
+E:\Basic C# Programming\Basic\Basic\bin\Debug\net7.0\Basic.pdb
+E:\Basic C# Programming\Basic\Basic\obj\Debug\net7.0\Basic.csproj.AssemblyReference.cache
+E:\Basic C# Programming\Basic\Basic\obj\Debug\net7.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Basic C# Programming\Basic\Basic\obj\Debug\net7.0\Basic.AssemblyInfoInputs.cache
+E:\Basic C# Programming\Basic\Basic\obj\Debug\net7.0\Basic.AssemblyInfo.cs
+E:\Basic C# Programming\Basic\Basic\obj\Debug\net7.0\Basic.csproj.CoreCompileInputs.cache
+E:\Basic C# Programming\Basic\Basic\obj\Debug\net7.0\Basic.dll
+E:\Basic C# Programming\Basic\Basic\obj\Debug\net7.0\refint\Basic.dll
+E:\Basic C# Programming\Basic\Basic\obj\Debug\net7.0\Basic.pdb
+E:\Basic C# Programming\Basic\Basic\obj\Debug\net7.0\Basic.genruntimeconfig.cache
+E:\Basic C# Programming\Basic\Basic\obj\Debug\net7.0\ref\Basic.dll
